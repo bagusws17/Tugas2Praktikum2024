@@ -50,6 +50,5 @@ Shift Baru: D
       Data yang dikirim dari FormData (nama, NIM, dan tahun) disimpan sebagai properti dalam class TampilData. Properti ini akan digunakan untuk menampilkan informasi.
     - Di dalam method build() dari TampilData, data yang diterima digunakan untuk ditampilkan kepada pengguna. Umur dihitung berdasarkan tahun lahir yang diterima, dan data tersebut ditampilkan melalui widget Text
 ## Screenshot
-Contoh :
 ![Lampiran Form](form.png)
 ![Lampiran Hasil](hasil.png)
