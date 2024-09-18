@@ -45,10 +45,10 @@ Shift Baru: D
 
 5. Penerimaan dan Penggunaan Data di TampilData
     - Pada halaman TampilData, class menerima data melalui constructor:
-      ![Construct](construct.png)
+      <img src="https://github.com/bagusws17/Tugas2Praktikum2024/blob/main/construct.png" width=50% height=50%>
       
       Data yang dikirim dari FormData (nama, NIM, dan tahun) disimpan sebagai properti dalam class TampilData. Properti ini akan digunakan untuk menampilkan informasi.
     - Di dalam method build() dari TampilData, data yang diterima digunakan untuk ditampilkan kepada pengguna. Umur dihitung berdasarkan tahun lahir yang diterima, dan data tersebut ditampilkan melalui widget Text
 ## Screenshot
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+<img src="https://github.com/bagusws17/Tugas2Praktikum2024/blob/main/form.png" width=50% height=50%>
+<img src="https://github.com/bagusws17/Tugas2Praktikum2024/blob/main/hasil.png" width=50% height=50%>
